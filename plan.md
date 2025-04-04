@@ -1,4 +1,5 @@
 - board
+    - 3x3 grid of squares
 - players
 - turns
 - detect winner
