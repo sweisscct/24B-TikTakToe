@@ -1,0 +1,6 @@
+- board
+- players
+- turns
+- detect winner
+- detect draw
+- make moves/select positions
